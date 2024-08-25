@@ -1,0 +1,1 @@
+javascript:(function(){var a='https://dqx.northern-fox.com/get_diary.js?%27+(new Date()).getTime();var d=document;var e=d.createElement(%27script%27);e.charset=%27utf-8%27;e.src=a;d.getElementsByTagName(%27head%27)[0].appendChild(e);})();
